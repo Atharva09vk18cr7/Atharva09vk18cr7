@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Atharva09vk18cr7
+- 👋 Hi, I’m @Atharva Nivalkar
 - 👀 I’m interested in Full Stack Development with a keen eye for design.
 - 🌱 Currently, I'm diving deeper into React framework. Excited to explore React and its potential impact on web development.
 - 💻 Tech Stack
